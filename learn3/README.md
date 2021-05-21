@@ -12,7 +12,7 @@
 
 5) np.c_
 
-6)griddata
+6) griddata
 
 7) map.contourf
 
